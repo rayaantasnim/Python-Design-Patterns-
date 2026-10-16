@@ -1,4 +1,4 @@
-![Main Header Banner](https://unsplash.com)
+![Main Header Banner](https://images.pexels.com/photos/2268535/pexels-photo-2268535.jpeg)
 
 # Enterprise Python Design Pattern Systems: Gang of Four (GoF) Architecture
 
