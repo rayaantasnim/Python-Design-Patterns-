@@ -71,7 +71,7 @@ Source File 57 applies the Decorator pattern to game development architecture. A
 
 ---
 
-![Core Architecture Diagram](https://unsplash.com)
+![Core Architecture Diagram](https://images.pexels.com/photos/1102797/pexels-photo-1102797.png)
 
 ## Part II: Creational Design Patterns
 
@@ -236,6 +236,6 @@ The **Strategy Pattern** in Source File 63 encapsulates interchangeable payment 
 ---
 
 ---
-Authorized by Rayaan Tasnim 
-Powered by Olympiad Edge 
-&copy; All Rights Reserved
+Authorized by Rayaan Tasnim <br>
+Powered by Olympiad Edge <br>
+&copy; All Rights Reserved <br>
